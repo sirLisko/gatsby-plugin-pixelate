@@ -34,5 +34,15 @@ It will extend the `nodeType` with the _base64_ version of the image container i
   }
 ```
 
+## In action
+
+_Original:_
+
+![original](./images/original.png)
+
+_Pixelated:_
+
+![pixelated](./images/pixelated.png)
+
 [npm-image]: https://img.shields.io/npm/v/gatsby-plugin-pixelate.svg
 [npm-url]: https://npmjs.com/package/gatsby-plugin-pixelate
