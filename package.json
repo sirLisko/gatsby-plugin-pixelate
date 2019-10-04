@@ -1,0 +1,30 @@
+{
+  "name": "gatsby-plugin-pixelate",
+  "version": "0.0.0",
+  "description": "A Gatsby plugin for pixelating images",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sirLisko/gatsby-plugin-pixelate.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gatsby",
+    "plugin",
+    "pixelate",
+    "8bit"
+  ],
+  "author": "Luca Lischetti <luca@sirlisko.com> (https://sirlisko.com)",
+  "license": "MIT",
+  "dependencies": {
+    "jimp": "^0.8.4"
+  },
+  "devDependencies": {
+    "eslint": "^6.4.0",
+    "eslint-config-prettier": "^6.3.0",
+    "eslint-plugin-prettier": "^3.1.1",
+    "prettier": "^1.18.2"
+  }
+}
