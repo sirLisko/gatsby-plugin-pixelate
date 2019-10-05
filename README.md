@@ -1,4 +1,4 @@
-# gatsby-plugin-pixelate [![npm][npm-image]][npm-url]
+# gatsby-plugin-pixelate [![npm][npm-image]][npm-url] [![Test Status][test-image]][test-url]
 
 > A Gatsby plugin for pixelating images
 
@@ -83,3 +83,5 @@ If you need multiple images just add a multiple config.
 
 [npm-image]: https://img.shields.io/npm/v/gatsby-plugin-pixelate.svg
 [npm-url]: https://npmjs.com/package/gatsby-plugin-pixelate
+[test-image]: https://github.com/sirlisko/gatsby-plugin-pixelate/workflows/Test%20CI/badge.svg
+[test-url]: https://github.com/sirLisko/gatsby-plugin-pixelate/actions
