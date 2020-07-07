@@ -20,7 +20,7 @@
   "author": "Luca Lischetti <luca@sirlisko.com> (https://sirlisko.com)",
   "license": "MIT",
   "dependencies": {
-    "jimp": "^0.8.4"
+    "jimp": "^0.14.0"
   },
   "devDependencies": {
     "eslint": "^6.4.0",
